@@ -1,5 +1,5 @@
 {
 	"language": "cpp",
 	"compile": "make",
-	"test": "./a.out"
+	"test": "./main"
 }
